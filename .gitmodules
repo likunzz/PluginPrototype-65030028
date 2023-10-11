@@ -1,0 +1,21 @@
+[submodule "plugins/plugin1"]
+	path = plugins/plugin1
+	url = https://github.com/6808-plugin-dev/plugin1.git
+[submodule "plugins/plugin2"]
+	path = plugins/plugin2
+	url = https://github.com/6808-plugin-dev/plugin2.git
+[submodule "plugins/PluginInterface"]
+	path = plugins/PluginInterface
+	url = https://github.com/6808-plugin-dev/PluginInterface.git
+[submodule "plugins/Host"]
+	path = plugins/Host
+	url = https://github.com/6808-plugin-dev/Host.git
+[submodule "plugins/plugin3"]
+	path = plugins/plugin3
+	url = https://github.com/6808-plugin-dev/plugin3.git
+[submodule "plugins/plugin4"]
+	path = plugins/plugin4
+	url = https://github.com/6808-plugin-dev/plugin4.git
+[submodule "plugins/Application1"]
+	path = plugins/Application1
+	url = https://github.com/6808-plugin-dev/Application1.git
